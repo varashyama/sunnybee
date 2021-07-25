@@ -1,0 +1,17 @@
+.footer{
+    background-color: #d3d3d396;
+}
+.app{
+    background-color: #6c757d3d;
+    padding-right: 85px;
+    padding-left: 85px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.mobile{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: #6c757d3d;
+    margin-right: 1em;
+}
